@@ -3,6 +3,7 @@
 </p>
 
 AMOGH MALVIYA
+
 A passionate developer and designer with a keen interest in machine learning, mobile development, React development, and Figma design.
 
 ## Skills
@@ -24,8 +25,4 @@ A passionate developer and designer with a keen interest in machine learning, mo
     * Expertise in creating user interfaces (UIs) that are both functional and visually appealing
     * Developed several React-based applications that have been praised for their usability and design
 
-* **Figma Design:**
-    * Proficient in Figma, a collaborative interface design tool
-    * Experience with creating wireframes, prototypes, and mockups
-    * Expertise in designing user-friendly and visually appealing interfaces
-    * Created several Figma designs that have been implemented in production applications
+  
