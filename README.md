@@ -75,3 +75,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmoghMalviya&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmoghMalviya&" alt="AmoghMalviya" /></p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AmoghMalviya&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
