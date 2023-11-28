@@ -150,8 +150,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-himanshu-13&show_icons=true&locale=en&layout=compact" alt="its-himanshu-13" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmoghMalviya&show_icons=true&locale=en&layout=compact" alt="AmoghMalviya" /></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-himanshu-13&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmoghMalviya&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-himanshu-13&" alt="its-himanshu-13" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmoghMalviya&" alt="AmoghMalviya" /></p>
