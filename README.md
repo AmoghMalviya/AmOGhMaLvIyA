@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amogh Malviya !!</h1>
 <h3 align="center">An ML enthusiast with hands on practise with App Devlopment and Full Stack Web Dev</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 - 🌱 I’m currently learning **App Development $ FULL STACK DEV**
 
 - 👯 I’m looking to collaborate on **new and wide range of open source projects **
