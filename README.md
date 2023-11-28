@@ -69,8 +69,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmoghMalviya&show_icons=true&locale=en&layout=compact" alt="AmoghMalviya" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmoghMalviya&show_icons=true&locale=en&layout=compact" alt="AmoghMalviya" /></p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmoghMalviya&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmoghMalviya&" alt="AmoghMalviya" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AmoghMalviya&" alt="AmoghMalviya" /></p>
