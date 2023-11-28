@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **new and wide range of open source projects **
 
-- 📫 How to reach me **therealworld033@gmail.com**
+- 📫 How to reach me **amoghmalviya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
