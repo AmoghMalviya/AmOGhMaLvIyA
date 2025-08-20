@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amogh Malviya !!</h1>
-<h3 align="center">An ML enthusiast with hands on practise with App Devlopment and Full Stack Web Dev</h3>
+<h3 align="center">An ML and AI deep thinker on how things work with hands on exp in App Devlopment, Full Stack, ML and new gen DL models with professional exp in real world Devops.</h3>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-- 🌱 I’m currently learning **App Development $ FULL STACK DEV**
+- 🌱 I’m currently learning about Transformers mathematics that power up modern day Gen AI Implementation as LLMs and working as professional DevOps guy for past 1 year**
 
 - 👯 I’m looking to collaborate on **new and wide range of open source projects **
 
